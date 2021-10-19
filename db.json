@@ -1,0 +1,18 @@
+{
+  "aulas": [
+    {
+      "Nombre": "Sala 5-A",
+      "Piso": "Segundo Piso",
+      "Capacidad": "30",
+      "TipoSala": "Laboratorio",
+      "id": 1
+    },
+    {
+      "Nombre": "Sala 6-B",
+      "Piso": "Primer Piso",
+      "Capacidad": "30",
+      "TipoSala": "Laboratorio",
+      "id": 2
+    }
+  ]
+}
